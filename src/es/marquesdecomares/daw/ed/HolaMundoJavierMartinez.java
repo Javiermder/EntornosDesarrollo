@@ -5,7 +5,7 @@ public class HolaMundoJavierMartinez {
 	public static void main(String[] args) {
 
 		System.out.println("Hola mundo");
-		System.out.println("soy david1");
+		System.out.println("soy david");
 	}
 
 }

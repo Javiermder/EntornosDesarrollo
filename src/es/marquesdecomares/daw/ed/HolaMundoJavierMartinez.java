@@ -6,8 +6,6 @@ public class HolaMundoJavierMartinez {
 
 		System.out.println("Hola mundo");
 		System.out.println("soy david");
-
-		a
 	}
 
 }
